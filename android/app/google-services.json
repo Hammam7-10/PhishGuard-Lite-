@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154777859669",
+    "project_id": "phisggurdelite",
+    "storage_bucket": "phisggurdelite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154777859669:android:b76fbc6c8a4c49611206dc",
+        "android_client_info": {
+          "package_name": "com.example.phishguard_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrH2eyX1A1vfwhn_B1Q-D252ezkeqg7LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
